@@ -1,4 +1,4 @@
-# CKEditor5_Sample
+# CKEditor5_Sample for Angular
  
 Type npm install in the directory and press enter
 
